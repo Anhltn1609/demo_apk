@@ -1,0 +1,2 @@
+com.example.installplugin
+xml provider_install_paths
